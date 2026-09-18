@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BankMate</string>
+    <string name="tagline">Personal Banking</string>
+
+    <string name="greeting_morning">Good Morning</string>
+    <string name="customer_name_sample">Tejas Sharma</string>
+    <string name="account_number_sample">5021 4487 9931 1234</string>
+    <string name="account_number_masked">XXXX XXXX XXXX 1234</string>
+    <string name="account_type_sample">Savings Account</string>
+    <string name="available_balance_label">Total Available Balance</string>
+    <string name="available_balance_sample">₹50,000.00</string>
+
+    <string name="service_account_details">Account Details</string>
+    <string name="service_fund_transfer">Fund Transfer</string>
+    <string name="service_transaction_history">Transaction History</string>
+
+    <string name="account_number_label">Account Number</string>
+    <string name="account_type_label">Account Type</string>
+
+    <string name="beneficiary_name_hint">Beneficiary Name</string>
+    <string name="beneficiary_account_hint">Beneficiary Account Number</string>
+    <string name="transfer_amount_hint">Transfer Amount (₹)</string>
+    <string name="transfer_mode_label">Transfer Mode</string>
+    <string name="confirm_transfer">Confirm Transfer</string>
+
+    <string name="error_beneficiary_empty">Beneficiary name cannot be empty</string>
+    <string name="error_account_empty">Account number cannot be empty</string>
+    <string name="error_amount_invalid">Enter a valid transfer amount</string>
+    <string name="error_amount_zero">Amount must be greater than zero</string>
+    <string name="error_insufficient_balance">Insufficient balance for this transfer</string>
+    <string name="error_mode_not_selected">Please select a transfer mode</string>
+
+    <string name="transaction_successful">Transaction Successful</string>
+    <string name="transaction_status_label">Status</string>
+    <string name="transaction_status_success">Success</string>
+    <string name="done">DONE</string>
+
+    <string name="notification_channel_name">BankMate Transactions</string>
+    <string name="notification_channel_desc">Notifications about BankMate transactions</string>
+    <string name="notification_title">BankMate</string>
+    <string name="notification_message">Transaction successful</string>
+
+    <string name="history_title">Transaction History</string>
+</resources>
